@@ -1,5 +1,12 @@
 # Personal Projects
 
+| Progressing Projects
+
+## INPLAN
+
+자기 관리를 위한 웹 및 어플리케이션 제작
+- 2021.11.20 ~ 진행중
+
 | Last 5 Projects
 
 ## Portfolio 
