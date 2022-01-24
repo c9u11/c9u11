@@ -6,6 +6,10 @@
 - 2021.11.20 ~ 진행중
 - 오늘 나의 활동 기록 및 피드백, 비교 기능
 
+## JSON PRO
+JSON View/Edit/Validate Page
+- 2022.01.23 ~ 진행중
+
 # Last 5 Projects
 
 ## Portfolio 
