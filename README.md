@@ -4,11 +4,18 @@
 
 자기 관리를 위한 웹 및 어플리케이션 제작
 - 2021.11.20 ~ 진행중
+- https://github.com/In-Plan
 - 오늘 나의 활동 기록 및 피드백, 비교 기능
 
 ## JSON PRO
 JSON View/Edit/Validate Page
-- 2022.01.23 ~ 진행중
+- 2022.01.23 ~ 보류중
+- https://github.com/c9u11/json-pro
+
+## Bulls and Cows
+숫자야구 게임 페이지
+- 2022.01.30 ~ 진행중
+- https://github.com/c9u11/bulls-and-cows
 
 # Last 5 Projects
 
