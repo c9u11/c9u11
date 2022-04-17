@@ -60,3 +60,5 @@ React를 사용하여 암호화폐 리스트와 가격 등의 정보 제공 사�
 React를 사용하여 OTT 사이트 메인 페이지 개발
 
 - Github : https://github.com/c9u11/react-playground/tree/master/ott-page
+
+![Demo](https://user-images.githubusercontent.com/29428714/161424171-cfb0f041-5cd7-4eb1-8a06-8a3c699327da.gif)
