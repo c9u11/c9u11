@@ -7,10 +7,10 @@
 - https://github.com/In-Plan
 - 오늘 나의 활동 기록 및 피드백, 비교 기능
  -->
-## JSON PRO
+<!-- ## JSON PRO
 JSON View/Edit/Validate Page
 - 2022.01.23 ~ 보류중
-- https://github.com/c9u11/json-pro
+- https://github.com/c9u11/json-pro -->
 
 ## Bulls and Cows
 숫자야구 게임 페이지
