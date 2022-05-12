@@ -1,4 +1,9 @@
 # Progressing Projects
+
+Mon ~ Fri : ReactNative or JAVA or Algorithm
+Sat : Project T
+Sun : Bulls and Cows
+
 <!-- 
 ## INPLAN
 
