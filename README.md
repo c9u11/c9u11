@@ -24,6 +24,11 @@ JSON View/Edit/Validate Page
 - 2022.01.30 ~ 진행중
 - https://github.com/c9u11/bulls-and-cows
 
+## NomadWeather
+ReactNative 공부
+- 2022.05.12 ~ 진행중
+- https://github.com/c9u11/NomadWeather.git
+
 # Last 5 Projects
 
 ## Portfolio 
