@@ -1,6 +1,6 @@
 # Progressing Projects
 
-Mon ~ Fri : ReactNative or JAVA or Algorithm
+Mon ~ Fri : *정보처리기사* ReactNative or JAVA or Algorithm
 
 Sat : Project T
 
