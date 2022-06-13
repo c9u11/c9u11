@@ -1,8 +1,8 @@
 # Progressing Projects
 
-Mon ~ Fri : *정보처리기사* ReactNative or JAVA or Algorithm
+Mon ~ Fri : *정보처리기사(2022.08.16 필기 접수)* ReactNative or JAVA or Algorithm
 
-Sat : Project T
+Sat : Pick and Go
 
 Sun : Bulls and Cows
 
