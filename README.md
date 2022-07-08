@@ -1,3 +1,6 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412)](https://solved.ac/tjrdud6412)
+
 # Progressing Projects
 
 Mon ~ Fri : *정보처리기사(2022.08.16 필기 접수)* ReactNative or JAVA or Algorithm
