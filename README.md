@@ -3,7 +3,7 @@
 
 # Progressing Projects
 
-Mon ~ Fri : *정보처리기사(2022.08.16 필기 접수)* ReactNative or JAVA or Algorithm
+Mon ~ Fri : *정보처리기사(2023 필기 )* ReactNative or JAVA or Algorithm
 
 Sat : Pick and Go
 
