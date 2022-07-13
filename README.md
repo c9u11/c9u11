@@ -1,5 +1,4 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412)](https://solved.ac/tjrdud6412)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412)](https://solved.ac/tjrdud6412)
 
 # Progressing Projects
 
