@@ -6,7 +6,7 @@
 
 Mon ~ Fri : *정보처리기사(2023 필기)* || Algorithm || ReactNative || JAVA
 
-Sat ~ Sun : Pernal Project
+Sat ~ Sun : Personal Project
 
 <!-- 
 ## INPLAN
