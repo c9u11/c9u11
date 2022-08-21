@@ -4,11 +4,9 @@
 
 # Progressing Projects
 
-Mon ~ Fri : *정보처리기사(2023 필기 )* ReactNative or JAVA or Algorithm
+Mon ~ Fri : *정보처리기사(2023 필기)* || Algorithm || ReactNative || JAVA
 
-Sat : Pick and Go
-
-Sun : Bulls and Cows
+Sat ~ Sun : Pernal Project
 
 <!-- 
 ## INPLAN
