@@ -28,7 +28,7 @@ JSON View/Edit/Validate Page
 
 ## NomadWeather
 ReactNative 공부
-- 2022.05.12 ~ 2022.07.24
+- 2022.05.12 ~ 2022.09.07
 - https://github.com/c9u11/NomadWeather.git
 
 # Last 5 Projects
