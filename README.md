@@ -27,7 +27,6 @@ ReactNative 공부
 - Github : https://github.com/c9u11/koen
 
 ![KoEnLogo](https://raw.githubusercontent.com/c9u11/koen/main/assets/icons/png/128x128.png)
-![convertText](https://user-images.githubusercontent.com/29428714/208694499-c89d264b-ab50-4156-be30-1ee68c3bd11a.gif)
 
 ## Portfolio 
 
