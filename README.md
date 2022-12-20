@@ -8,19 +8,6 @@ Mon ~ Fri : *정보처리기사(2023 필기)* || Algorithm || ReactNative || JAV
 
 Sat ~ Sun : Personal Project
 
-<!-- 
-## INPLAN
-
-자기 관리를 위한 웹 및 어플리케이션 제작
-- 2021.11.20 ~ 진행중
-- https://github.com/In-Plan
-- 오늘 나의 활동 기록 및 피드백, 비교 기능
- -->
-<!-- ## JSON PRO
-JSON View/Edit/Validate Page
-- 2022.01.23 ~ 보류중
-- https://github.com/c9u11/json-pro -->
-
 ## Bulls and Cows
 숫자야구 게임 페이지
 - 2022.01.30 ~ 진행중
@@ -32,6 +19,15 @@ ReactNative 공부
 - https://github.com/c9u11/NomadWeather.git
 
 # Last 5 Projects
+
+## KoEn
+
+텍스트를 한글 또는 영어로 변환하는 프로그램
+
+- Github : https://github.com/c9u11/koen
+
+![KoEnLogo](https://raw.githubusercontent.com/c9u11/koen/main/assets/icons/png/128x128.png)
+![convertText](https://user-images.githubusercontent.com/29428714/208694499-c89d264b-ab50-4156-be30-1ee68c3bd11a.gif)
 
 ## Portfolio 
 
@@ -52,14 +48,6 @@ Framer-motion을 사용한 animation 구현
 - Github : https://github.com/c9u11/react-playground/tree/master/animations
 
   ![Example10](https://user-images.githubusercontent.com/29428714/146602836-68538cba-d23f-4dc6-a23e-877be3474089.gif)
-
-## TodoList
-
-React-hook-form을 사용한 form 태그 사용
-
-- Github : https://github.com/c9u11/react-playground/tree/master/todo-list
-
-![Demo1](https://user-images.githubusercontent.com/29428714/162623345-465c9e1d-f629-4cc5-b9a5-3be00b15a122.gif)
 
 ## Crypto-tracker
 
