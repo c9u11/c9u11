@@ -1,23 +1,12 @@
-<!-- <a href="https://opgc.me/#/users/c9u11" target="_blank"><img src="https://api.opgc.me/githubs/users/c9u11/tag/?theme=basic" /></a> -->
+<div align="center">
+  <br/>
+  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1000&color=5a7c81&background=fff6e5ff&center=true&vCenter=true&width='200'&lines=➜+npx+c9u11" alt="Typing SVG" />
+  <br/><br/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412"/>
+</div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrdud6412)](https://solved.ac/tjrdud6412)
-
-# Progressing Projects
-
-Mon ~ Fri : *정보처리기사(2023 필기)* || Algorithm || ReactNative || JAVA
-
-Sat ~ Sun : Personal Project
-
-## Bulls and Cows
-숫자야구 게임 페이지
-- 2022.01.30 ~ 진행중
-- https://github.com/c9u11/bulls-and-cows
-
-## NomadWeather
-ReactNative 공부
-- 2022.05.12 ~ 2022.09.07
-- https://github.com/c9u11/NomadWeather.git
-
+<br/>
+  
 # Last 5 Projects
 
 ## KoEn
@@ -63,3 +52,5 @@ React를 사용하여 OTT 사이트 메인 페이지 개발
 - Github : https://github.com/c9u11/react-playground/tree/master/ott-page
 
 ![Demo](https://user-images.githubusercontent.com/29428714/161424171-cfb0f041-5cd7-4eb1-8a06-8a3c699327da.gif)
+
+# 
